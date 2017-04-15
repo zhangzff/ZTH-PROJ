@@ -7,4 +7,6 @@ public class testgit {
 	public int b;
 	
 	public String str1="test1";
+	
+	public int as;
 }
